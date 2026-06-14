@@ -16,12 +16,6 @@
     "200x200",
     "250x250"
   ],
-  "finitions": [
-    "Carving",
-    "No carving",
-    "Relief bas",
-    "Relief haut"
-  ],
   "zoneLabels": [
     "Clair",
     "Médium",
@@ -89,10 +83,16 @@
       7
     ]
   },
-  "finishDescriptions": {
-    "Carving": "Le carving sculpte le motif en creusant la laine autour des contours, créant un relief net qui détache chaque forme.",
-    "No carving": "Surface uniforme sans découpe : les couleurs se rejoignent à plat, pour un rendu doux et contemporain.",
-    "Relief bas": "Une légère différence de hauteur entre les zones, pour un relief subtil au toucher.",
-    "Relief haut": "Un contraste de hauteur marqué entre les zones, pour un effet sculptural prononcé."
-  }
+  "finishOptions": [
+    {
+      "id": "carving",
+      "label": "Carving",
+      "desc": "Le carving sculpte le motif en creusant la laine autour des contours, créant un relief net qui détache chaque forme."
+    },
+    {
+      "id": "relief",
+      "label": "Motif en relief",
+      "desc": "Le motif en relief joue sur deux hauteurs de laine (technique high-low) : certaines zones sont tuftées plus hautes que d'autres, créant un relief sculptural qui se révèle à la lumière et sous le pied."
+    }
+  ]
 }

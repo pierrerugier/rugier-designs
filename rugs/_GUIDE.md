@@ -99,3 +99,34 @@ Demande-moi de te préparer un module si tu n'as que le tapis complet — je sai
 - Les couleurs trop fluo (non réalisables en laine) sont automatiquement signalées à l'utilisateur.
 - Tailles : largeur 1m à 3,5m, longueur 1m à 2,5m.
 - Après chaque modif sur GitHub, attends ~1 minute (cache) puis recharge le configurateur.
+
+## Tapis uni à double bordure (type « solid », ex : Squadra)
+
+Pour un tapis à fond uni avec deux bordures (5 cm + 5 cm) :
+```json
+{
+  "type": "solid",
+  "shape": "rect",
+  "borderCm": 10,
+  "borderColors": ["#7d5a3a", "#2a1d12"],
+  "fieldColor": "#c9a36b",
+  "layerColors": ["#c9a36b", "#7d5a3a", "#2a1d12"],
+  "zoneLabels": ["Fond", "Bordure extérieure", "Bordure intérieure"],
+  "sizes": ["200x200","300x300","170x240","200x300","250x350"],
+  "palettes": [ ... ]
+}
+```
+Pas besoin de SVG complexe : le tapis est dessiné automatiquement. Un `preview.svg` simple sert juste de vignette.
+
+## Prix
+
+L'estimation se calcule automatiquement : surface nominale (taille affichée) × tarif au m².
+Les deux tarifs (avec / sans carving) sont réglables dans Admin > Apparence & paramètres.
+Le prix est indiqué « environ … € TTC ».
+
+## Sauvegarde des tapis clients (backend)
+
+Sans backend, « Mes tapis » et le feed sont stockés uniquement dans le navigateur du visiteur.
+Pour une sauvegarde partagée et persistante, installe le backend Google Apps Script
+(fichier `backend-rugier.gs`) et colle son URL dans Admin > URL backend.
+Voir les instructions en haut de ce fichier.

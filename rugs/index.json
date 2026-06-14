@@ -64,6 +64,13 @@
       "type": "stretch"
     },
     {
+      "id": "squadra",
+      "name": "Squadra",
+      "collection": "Optical Palazzo",
+      "author": "Pierre Jungers",
+      "type": "solid"
+    },
+    {
       "id": "thewader",
       "name": "The Wader",
       "collection": "Highland Grounds",

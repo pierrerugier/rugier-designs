@@ -1,58 +1,58 @@
 {
-  "id": "elrojo",
-  "name": "El Rojo",
-  "author": "Manon du Merle",
-  "collection": "La Pintura",
-  "type": "stretch",
+  "id": "squadra",
+  "name": "Squadra",
+  "author": "Pierre Jungers",
+  "collection": "Optical Palazzo",
+  "type": "solid",
   "shape": "rect",
-  "transparent": false,
+  "borderCm": 10,
+  "borderColors": [
+    "#7d5a3a",
+    "#2a1d12"
+  ],
+  "fieldColor": "#c9a36b",
   "sizes": [
+    "200x200",
+    "300x300",
     "170x240",
     "200x300",
-    "250x350",
-    "200x200",
-    "300x300"
+    "250x350"
   ],
   "zoneLabels": [
-    "Zone 1",
-    "Zone 2",
-    "Zone 3",
-    "Zone 4"
+    "Fond",
+    "Bordure extérieure",
+    "Bordure intérieure"
+  ],
+  "layerColors": [
+    "#c9a36b",
+    "#7d5a3a",
+    "#2a1d12"
   ],
   "palettes": [
     {
       "name": "Original",
       "colors": {
-        "layer-1": "#640e11",
-        "layer-2": "#44060c",
-        "layer-3": "#330309",
-        "layer-4": "#3a0308"
+        "layer-1": "#c9a36b",
+        "layer-2": "#7d5a3a",
+        "layer-3": "#2a1d12"
       }
     },
     {
-      "name": "Indigo & Nuit",
+      "name": "Nuit & Or",
       "colors": {
-        "layer-1": "#1A1A4A",
-        "layer-2": "#101030",
-        "layer-3": "#0A0820",
-        "layer-4": "#1A1A4A"
+        "layer-1": "#1a1f3c",
+        "layer-2": "#c8a84b",
+        "layer-3": "#0e1830"
       }
     },
     {
-      "name": "Vert Kaki",
+      "name": "Terre Cuite",
       "colors": {
-        "layer-1": "#3A4020",
-        "layer-2": "#282C14",
-        "layer-3": "#1A1E0C",
-        "layer-4": "#3A4020"
+        "layer-1": "#b5472e",
+        "layer-2": "#7a3020",
+        "layer-3": "#2a120a"
       }
     }
-  ],
-  "layerColors": [
-    "#640e11",
-    "#44060c",
-    "#330309",
-    "#3a0308"
   ],
   "finishOptions": [
     {
