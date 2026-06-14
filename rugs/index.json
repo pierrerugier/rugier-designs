@@ -71,6 +71,20 @@
       "type": "solid"
     },
     {
+      "id": "thefox",
+      "name": "The Fox",
+      "collection": "Highland Grounds",
+      "author": "Alice Wood",
+      "type": "stretch"
+    },
+    {
+      "id": "thestag",
+      "name": "The Stag",
+      "collection": "Highland Grounds",
+      "author": "Alice Wood",
+      "type": "stretch"
+    },
+    {
       "id": "thewader",
       "name": "The Wader",
       "collection": "Highland Grounds",

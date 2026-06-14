@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5621.9 7606.099999999999">
 <defs><linearGradient id="g_dante" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b05564"/><stop offset="1" stop-color="#100809"/></linearGradient></defs>
-<rect width="5621.9" height="7606.099999999999" fill="#9f3836"/>
+<rect width="5621.9" height="7606.099999999999" fill="#a03837"/>
 <rect x="165.35" y="165.35" width="5291.2" height="7275.4" fill="#030400"/>
 <rect x="330.7" y="330.7" width="4960.5" height="6944.7" fill="url(#g_dante)"/>
 <g transform="translate(330.7,330.7)">
@@ -213,5 +213,4 @@
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g>
-</svg>
+</g></svg>

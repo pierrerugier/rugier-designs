@@ -1,0 +1,79 @@
+{
+  "id": "thefox",
+  "name": "The Fox",
+  "author": "Alice Wood",
+  "collection": "Highland Grounds",
+  "type": "stretch",
+  "shape": "rect",
+  "transparent": false,
+  "sizes": [
+    "170x240",
+    "200x300",
+    "250x350",
+    "200x200",
+    "300x300"
+  ],
+  "finishOptions": [
+    {
+      "id": "carving",
+      "label": "Carving",
+      "desc": "Le carving sculpte le motif en creusant la laine autour des contours, créant un relief net qui détache chaque forme."
+    },
+    {
+      "id": "relief",
+      "label": "Motif en relief",
+      "desc": "Le motif en relief joue sur deux hauteurs de laine (technique high-low) : certaines zones sont tuftées plus hautes que d'autres, créant un relief sculptural qui se révèle à la lumière et sous le pied."
+    }
+  ],
+  "zoneLabels": [
+    "Zone 1",
+    "Zone 2",
+    "Zone 3",
+    "Zone 4",
+    "Zone 5",
+    "Zone 6"
+  ],
+  "layerColors": [
+    "#d0b781",
+    "#faeec5",
+    "#f6e1a5",
+    "#fde9b8",
+    "#dac8a0",
+    "#e1cfab"
+  ],
+  "palettes": [
+    {
+      "name": "Original",
+      "colors": {
+        "layer-1": "#d0b781",
+        "layer-2": "#faeec5",
+        "layer-3": "#f6e1a5",
+        "layer-4": "#fde9b8",
+        "layer-5": "#dac8a0",
+        "layer-6": "#e1cfab"
+      }
+    },
+    {
+      "name": "Forêt",
+      "colors": {
+        "layer-1": "#4A5830",
+        "layer-2": "#8A9868",
+        "layer-3": "#C8D0A8",
+        "layer-4": "#607040",
+        "layer-5": "#A8B888",
+        "layer-6": "#D8E0C0"
+      }
+    },
+    {
+      "name": "Ardoise",
+      "colors": {
+        "layer-1": "#485058",
+        "layer-2": "#D8DCE0",
+        "layer-3": "#586068",
+        "layer-4": "#808890",
+        "layer-5": "#686870",
+        "layer-6": "#B8BCC0"
+      }
+    }
+  ]
+}
