@@ -1,0 +1,89 @@
+{
+  "id": "thewader",
+  "name": "The Wader",
+  "author": "Alice Wood",
+  "collection": "Highland Grounds",
+  "type": "stretch",
+  "shape": "rect",
+  "transparent": false,
+  "sizes": [
+    "100x100",
+    "170x240",
+    "200x300",
+    "250x350"
+  ],
+  "finitions": [
+    "Carving",
+    "No carving",
+    "Relief bas",
+    "Bords frangés"
+  ],
+  "zoneLabels": [
+    "Zone 1",
+    "Zone 2",
+    "Zone 3",
+    "Zone 4",
+    "Zone 5",
+    "Zone 6",
+    "Zone 7"
+  ],
+  "palettes": [
+    {
+      "name": "Original",
+      "colors": {
+        "layer-1": "#72818b",
+        "layer-2": "#ede6d7",
+        "layer-3": "#fdf9e7",
+        "layer-4": "#344a52",
+        "layer-5": "#aeb6b3",
+        "layer-6": "#cfbc9f",
+        "layer-7": "#1b3540"
+      }
+    },
+    {
+      "name": "Forêt",
+      "colors": {
+        "layer-1": "#4A5830",
+        "layer-2": "#8A9868",
+        "layer-3": "#C8D0A8",
+        "layer-4": "#607040",
+        "layer-5": "#A8B888",
+        "layer-6": "#D8E0C0",
+        "layer-7": "#4A5830"
+      }
+    },
+    {
+      "name": "Ardoise",
+      "colors": {
+        "layer-1": "#485058",
+        "layer-2": "#D8DCE0",
+        "layer-3": "#586068",
+        "layer-4": "#808890",
+        "layer-5": "#686870",
+        "layer-6": "#B8BCC0",
+        "layer-7": "#485058"
+      }
+    },
+    {
+      "name": "Terre",
+      "colors": {
+        "layer-1": "#6A4828",
+        "layer-2": "#A87848",
+        "layer-3": "#D4A878",
+        "layer-4": "#483018",
+        "layer-5": "#886038",
+        "layer-6": "#C09068",
+        "layer-7": "#6A4828"
+      }
+    }
+  ],
+  "layerColors": [
+    "#72818b",
+    "#ede6d7",
+    "#fdf9e7",
+    "#344a52",
+    "#aeb6b3",
+    "#cfbc9f",
+    "#1b3540"
+  ]
+}

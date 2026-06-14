@@ -1,0 +1,65 @@
+{
+  "id": "gerald",
+  "name": "Gerald",
+  "author": "Manon du Merle",
+  "collection": "Moiré",
+  "type": "stretch",
+  "shape": "rect",
+  "transparent": false,
+  "sizes": [
+    "100x100",
+    "170x240",
+    "200x300",
+    "250x350"
+  ],
+  "finitions": [
+    "Carving",
+    "No carving",
+    "Relief bas",
+    "Bords frangés"
+  ],
+  "zoneLabels": [
+    "Zone 1",
+    "Zone 2",
+    "Zone 3"
+  ],
+  "palettes": [
+    {
+      "name": "Original",
+      "colors": {
+        "layer-1": "#422e19",
+        "layer-2": "#534026",
+        "layer-3": "#47351c"
+      }
+    },
+    {
+      "name": "Terracotta",
+      "colors": {
+        "layer-1": "#C46840",
+        "layer-2": "#E8D0B8",
+        "layer-3": "#D4A880"
+      }
+    },
+    {
+      "name": "Nuit & Or",
+      "colors": {
+        "layer-1": "#2A2040",
+        "layer-2": "#C8A84B",
+        "layer-3": "#A09870"
+      }
+    },
+    {
+      "name": "Bleu & Brique",
+      "colors": {
+        "layer-1": "#4A7090",
+        "layer-2": "#C4503C",
+        "layer-3": "#B8A898"
+      }
+    }
+  ],
+  "layerColors": [
+    "#422e19",
+    "#534026",
+    "#47351c"
+  ]
+}

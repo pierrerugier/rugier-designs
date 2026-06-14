@@ -1,0 +1,59 @@
+{
+  "id": "land",
+  "name": "Land",
+  "author": "Mimo Studio × Marie Meilhan Bordes",
+  "collection": "Fodio",
+  "type": "stretch",
+  "shape": "rect",
+  "transparent": true,
+  "sizes": [
+    "100x100",
+    "170x240",
+    "200x300",
+    "250x350"
+  ],
+  "finitions": [
+    "Carving",
+    "No carving",
+    "Relief bas",
+    "Bords frangés"
+  ],
+  "zoneLabels": [
+    "Zone 1",
+    "Zone 2"
+  ],
+  "palettes": [
+    {
+      "name": "Original",
+      "colors": {
+        "layer-1": "#6c5952",
+        "layer-2": "#57473f"
+      }
+    },
+    {
+      "name": "Terracotta",
+      "colors": {
+        "layer-1": "#C4906A",
+        "layer-2": "#8A5840"
+      }
+    },
+    {
+      "name": "Nuit & Or",
+      "colors": {
+        "layer-1": "#2A2A3A",
+        "layer-2": "#C0A040"
+      }
+    },
+    {
+      "name": "Bleu & Brique",
+      "colors": {
+        "layer-1": "#4A6878",
+        "layer-2": "#203040"
+      }
+    }
+  ],
+  "layerColors": [
+    "#6c5952",
+    "#57473f"
+  ]
+}

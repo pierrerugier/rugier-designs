@@ -1,0 +1,81 @@
+{
+  "designs": [
+    {
+      "id": "agata",
+      "name": "Agata",
+      "collection": "Moiré",
+      "author": "Manon du Merle",
+      "type": "stretch"
+    },
+    {
+      "id": "air",
+      "name": "Air",
+      "collection": "Fodio",
+      "author": "Mimo Studio × Marie Meilhan Bordes",
+      "type": "stretch"
+    },
+    {
+      "id": "cerdan",
+      "name": "Cerdan",
+      "collection": "Optical Palazzo",
+      "author": "Pierre Jungers",
+      "type": "modular"
+    },
+    {
+      "id": "dante",
+      "name": "Dante",
+      "collection": "Optical Palazzo",
+      "author": "Pierre Jungers",
+      "type": "modular"
+    },
+    {
+      "id": "elrojo",
+      "name": "El Rojo",
+      "collection": "La Pintura",
+      "author": "Manon du Merle",
+      "type": "stretch"
+    },
+    {
+      "id": "felix",
+      "name": "Felix",
+      "collection": "Optical Palazzo",
+      "author": "Pierre Jungers",
+      "type": "modular"
+    },
+    {
+      "id": "gerald",
+      "name": "Gerald",
+      "collection": "Moiré",
+      "author": "Manon du Merle",
+      "type": "stretch"
+    },
+    {
+      "id": "harlan",
+      "name": "Harlan",
+      "collection": "Moiré",
+      "author": "Manon du Merle",
+      "type": "stretch"
+    },
+    {
+      "id": "land",
+      "name": "Land",
+      "collection": "Fodio",
+      "author": "Mimo Studio × Marie Meilhan Bordes",
+      "type": "stretch"
+    },
+    {
+      "id": "sea",
+      "name": "Sea",
+      "collection": "Fodio",
+      "author": "Mimo Studio × Marie Meilhan Bordes",
+      "type": "stretch"
+    },
+    {
+      "id": "thewader",
+      "name": "The Wader",
+      "collection": "Highland Grounds",
+      "author": "Alice Wood",
+      "type": "stretch"
+    }
+  ]
+}

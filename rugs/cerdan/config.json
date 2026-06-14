@@ -1,0 +1,64 @@
+{
+  "id": "cerdan",
+  "name": "Cerdan",
+  "author": "Pierre Jungers",
+  "collection": "Optical Palazzo",
+  "type": "modular",
+  "shape": "rect",
+  "gradient": [
+    "#a57574",
+    "#c7b1a2"
+  ],
+  "borderWidth": 2,
+  "sizes": [
+    "100x100",
+    "170x240",
+    "200x300",
+    "250x350"
+  ],
+  "finitions": [
+    "Carving",
+    "No carving",
+    "Relief bas",
+    "Relief haut"
+  ],
+  "zoneLabels": [
+    "Fond cube",
+    "Lumière",
+    "Côté"
+  ],
+  "palettes": [
+    {
+      "name": "Original",
+      "colors": {
+        "layer-1": "#3d0d1f",
+        "layer-2": "#a8b7b6",
+        "layer-3": "#997533"
+      }
+    },
+    {
+      "name": "Terracotta & Lin",
+      "colors": {
+        "layer-1": "#7A3020",
+        "layer-2": "#E8D5BE",
+        "layer-3": "#C4976A"
+      }
+    },
+    {
+      "name": "Nuit & Or",
+      "colors": {
+        "layer-1": "#1A1F3C",
+        "layer-2": "#C8A84B",
+        "layer-3": "#E8D9A0"
+      }
+    },
+    {
+      "name": "Bleu & Brique",
+      "colors": {
+        "layer-1": "#2B4060",
+        "layer-2": "#D4E0EC",
+        "layer-3": "#C4503C"
+      }
+    }
+  ]
+}
