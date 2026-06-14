@@ -35,9 +35,9 @@
   ],
   "layerColors": [
     "#d0b781",
-    "#faeec5",
-    "#f6e1a5",
-    "#fde9b8",
+    "#f0e9cf",
+    "#ebdcb0",
+    "#eee3c7",
     "#dac8a0",
     "#e1cfab"
   ],
@@ -46,9 +46,9 @@
       "name": "Original",
       "colors": {
         "layer-1": "#d0b781",
-        "layer-2": "#faeec5",
-        "layer-3": "#f6e1a5",
-        "layer-4": "#fde9b8",
+        "layer-2": "#f0e9cf",
+        "layer-3": "#ebdcb0",
+        "layer-4": "#eee3c7",
         "layer-5": "#dac8a0",
         "layer-6": "#e1cfab"
       }

@@ -28,7 +28,7 @@
       "colors": {
         "layer-1": "#72818b",
         "layer-2": "#ede6d7",
-        "layer-3": "#fdf9e7",
+        "layer-3": "#f5f2e5",
         "layer-4": "#344a52",
         "layer-5": "#aeb6b3",
         "layer-6": "#cfbc9f",
@@ -63,7 +63,7 @@
   "layerColors": [
     "#72818b",
     "#ede6d7",
-    "#fdf9e7",
+    "#f5f2e5",
     "#344a52",
     "#aeb6b3",
     "#cfbc9f",

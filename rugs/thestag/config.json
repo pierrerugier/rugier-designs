@@ -37,12 +37,12 @@
   ],
   "layerColors": [
     "#616147",
-    "#efe6c5",
+    "#ebe4c9",
     "#727353",
     "#a59a6d",
     "#878869",
     "#c6bc9a",
-    "#f9efda",
+    "#f4eddf",
     "#9a9c71"
   ],
   "palettes": [
@@ -50,12 +50,12 @@
       "name": "Original",
       "colors": {
         "layer-1": "#616147",
-        "layer-2": "#efe6c5",
+        "layer-2": "#ebe4c9",
         "layer-3": "#727353",
         "layer-4": "#a59a6d",
         "layer-5": "#878869",
         "layer-6": "#c6bc9a",
-        "layer-7": "#f9efda",
+        "layer-7": "#f4eddf",
         "layer-8": "#9a9c71"
       }
     },

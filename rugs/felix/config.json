@@ -6,7 +6,7 @@
   "type": "modular",
   "shape": "rect",
   "gradient": [
-    "#d7e6f7",
+    "#dbe6f3",
     "#8ba2c0"
   ],
   "sizes": [
@@ -27,10 +27,10 @@
     {
       "name": "Original",
       "colors": {
-        "layer-1": "#c9e2f7",
+        "layer-1": "#d0e1f0",
         "layer-2": "#e09192",
-        "layer-3": "#fdeff0",
-        "layer-4": "#f2c3c3",
+        "layer-3": "#f5e5e6",
+        "layer-4": "#eec7c7",
         "layer-5": "#f4d9d9"
       }
     },
