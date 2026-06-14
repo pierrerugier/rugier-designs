@@ -1,213 +1,213 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8928.9 10913.1">
-<defs><linearGradient id="grad_dante" x1="0" y1="0" x2="0" y2="1">
-<stop offset="0" stop-color="#b05564"/><stop offset="1" stop-color="#67313b"/>
-</linearGradient></defs>
-<rect width="8928.9" height="10913.1" fill="url(#grad_dante)"/>
-<g transform="translate(1984.2,1984.2)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5621.9 7606.099999999999">
+<defs><linearGradient id="g_dante" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b05564"/><stop offset="1" stop-color="#100809"/></linearGradient></defs>
+<rect width="5621.9" height="7606.099999999999" fill="#9f3836"/>
+<rect x="165.35" y="165.35" width="5291.2" height="7275.4" fill="#030400"/>
+<rect x="330.7" y="330.7" width="4960.5" height="6944.7" fill="url(#g_dante)"/>
+<g transform="translate(330.7,330.7)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(2976.3,1984.2)">
+</g><g transform="translate(1322.8,330.7)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(3968.4,1984.2)">
+</g><g transform="translate(2314.9,330.7)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(4960.5,1984.2)">
+</g><g transform="translate(3307.0,330.7)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(5952.6,1984.2)">
+</g><g transform="translate(4299.1,330.7)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(1984.2,2976.3)">
+</g><g transform="translate(330.7,1322.8)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(2976.3,2976.3)">
+</g><g transform="translate(1322.8,1322.8)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(3968.4,2976.3)">
+</g><g transform="translate(2314.9,1322.8)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(4960.5,2976.3)">
+</g><g transform="translate(3307.0,1322.8)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(5952.6,2976.3)">
+</g><g transform="translate(4299.1,1322.8)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(1984.2,3968.4)">
+</g><g transform="translate(330.7,2314.9)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(2976.3,3968.4)">
+</g><g transform="translate(1322.8,2314.9)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(3968.4,3968.4)">
+</g><g transform="translate(2314.9,2314.9)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(4960.5,3968.4)">
+</g><g transform="translate(3307.0,2314.9)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(5952.6,3968.4)">
+</g><g transform="translate(4299.1,2314.9)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(1984.2,4960.5)">
+</g><g transform="translate(330.7,3307.0)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(2976.3,4960.5)">
+</g><g transform="translate(1322.8,3307.0)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(3968.4,4960.5)">
+</g><g transform="translate(2314.9,3307.0)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(4960.5,4960.5)">
+</g><g transform="translate(3307.0,3307.0)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(5952.6,4960.5)">
+</g><g transform="translate(4299.1,3307.0)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(1984.2,5952.6)">
+</g><g transform="translate(330.7,4299.1)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(2976.3,5952.6)">
+</g><g transform="translate(1322.8,4299.1)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(3968.4,5952.6)">
+</g><g transform="translate(2314.9,4299.1)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(4960.5,5952.6)">
+</g><g transform="translate(3307.0,4299.1)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(5952.6,5952.6)">
+</g><g transform="translate(4299.1,4299.1)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(1984.2,6944.7)">
+</g><g transform="translate(330.7,5291.2)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(2976.3,6944.7)">
+</g><g transform="translate(1322.8,5291.2)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(3968.4,6944.7)">
+</g><g transform="translate(2314.9,5291.2)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(4960.5,6944.7)">
+</g><g transform="translate(3307.0,5291.2)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(5952.6,6944.7)">
+</g><g transform="translate(4299.1,5291.2)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(1984.2,7936.8)">
+</g><g transform="translate(330.7,6283.3)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(2976.3,7936.8)">
+</g><g transform="translate(1322.8,6283.3)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(3968.4,7936.8)">
+</g><g transform="translate(2314.9,6283.3)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(4960.5,7936.8)">
+</g><g transform="translate(3307.0,6283.3)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>
 <g id="layer-4" fill="#7d2527" data-original="#7d2527"><polygon points="755.6 248 755.6 248 755.6 744.1 755.6 744.1 992.1 992.1 992.1 0 755.6 248"/></g>
 <g id="layer-5" fill="#a96967" data-original="#a96967"><rect x="422.6" y="415.1" width="333" height="329"/></g>
-</g><g transform="translate(5952.6,7936.8)">
+</g><g transform="translate(4299.1,6283.3)">
 <g id="layer-1" fill="#efe0cc" data-original="#efe0cc"><polygon points="236.6 248 0 0 0 992.1 236.6 744.1 236.6 248"/></g>
 <g id="layer-2" fill="#c6aa94" data-original="#c6aa94"><polygon points="236.6 248 755.6 248 992.1 0 0 0 236.6 248 236.6 248"/></g>
 <g id="layer-3" fill="#a03837" data-original="#a03837"><polygon points="236.6 744.1 236.6 744.1 0 992.1 992.1 992.1 755.6 744.1 236.6 744.1"/></g>

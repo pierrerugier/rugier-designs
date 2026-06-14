@@ -68,11 +68,32 @@ C'est tout. Le configurateur affichera Aurora au prochain chargement.
 
 Pareil, mais :
 - `"type": "modular"`
-- fichier `module.svg` au lieu de `preview.svg` (le carré répétable)
-- ajoute `"gradient": ["#couleurHaut", "#couleurBas"]` pour le fond dégradé
-- ajoute `"borderWidth": 2` (épaisseur de bordure en modules)
+- fichier `module.svg` au lieu de `preview.svg` (le carré répétable de 30×30 cm)
+- le `module.svg` doit avoir ses zones de couleur dans des groupes `<g id="layer-1" fill="#..." data-original="#...">` (un groupe par couleur)
 
-Le module doit être un carré (viewBox carré), avec les zones de couleur dans des groupes `<g id="layer-1" fill="#..." data-original="#...">`. Demande-moi de te préparer un module si besoin.
+Champs supplémentaires dans `config.json` :
+```json
+{
+  "type": "modular",
+  "moduleCm": 30,
+  "borderCm": 10,
+  "borderColors": ["#a03837", "#7d2527"],
+  "gradient": ["#b05564", "#100809"],
+  "grids": {
+    "100x100": [3, 3],
+    "170x240": [5, 7],
+    "200x300": [6, 9],
+    "250x350": [7, 10]
+  }
+}
+```
+- `moduleCm` : taille physique d'un module (30 cm)
+- `borderCm` : épaisseur totale du contour (10 cm = les deux couches)
+- `borderColors` : `[couleur extérieure, couleur intérieure]`. La couleur extérieure doit être une des couleurs de calque du module pour qu'elle se recolorise avec les palettes. La ligne intérieure est automatiquement assombrie.
+- `gradient` : `[couleur haut, couleur bas]` du dégradé de fond continu
+- `grids` : nombre de modules `[colonnes, rangées]` pour chaque taille
+
+Demande-moi de te préparer un module si tu n'as que le tapis complet — je sais l'extraire.
 
 ## Notes
 - Les couleurs trop fluo (non réalisables en laine) sont automatiquement signalées à l'utilisateur.
