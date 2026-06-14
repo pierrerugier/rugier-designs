@@ -7,10 +7,11 @@
   "shape": "rect",
   "transparent": true,
   "sizes": [
-    "100x100",
     "170x240",
     "200x300",
-    "250x350"
+    "250x350",
+    "200x200",
+    "300x300"
   ],
   "finitions": [
     "Carving",
@@ -43,17 +44,16 @@
         "layer-1": "#2A2A3A",
         "layer-2": "#C0A040"
       }
-    },
-    {
-      "name": "Bleu & Brique",
-      "colors": {
-        "layer-1": "#4A6878",
-        "layer-2": "#203040"
-      }
     }
   ],
   "layerColors": [
     "#6c5952",
     "#978b7e"
-  ]
+  ],
+  "finishDescriptions": {
+    "Carving": "Le carving sculpte le motif en creusant la laine autour des contours, créant un relief net qui détache chaque forme.",
+    "No carving": "Surface uniforme sans découpe : les couleurs se rejoignent à plat, pour un rendu doux et contemporain.",
+    "Relief bas": "Une légère différence de hauteur entre les zones, pour un relief subtil au toucher.",
+    "Bords frangés": "Les bords du tapis se prolongent en franges de laine nouées à la main."
+  }
 }

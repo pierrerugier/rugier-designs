@@ -1,13 +1,6 @@
 {
   "designs": [
     {
-      "id": "agata",
-      "name": "Agata",
-      "collection": "Moiré",
-      "author": "Manon du Merle",
-      "type": "stretch"
-    },
-    {
       "id": "air",
       "name": "Air",
       "collection": "Fodio",

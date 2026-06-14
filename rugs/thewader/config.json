@@ -7,10 +7,11 @@
   "shape": "rect",
   "transparent": false,
   "sizes": [
-    "100x100",
     "170x240",
     "200x300",
-    "250x350"
+    "250x350",
+    "200x200",
+    "300x300"
   ],
   "finitions": [
     "Carving",
@@ -63,18 +64,6 @@
         "layer-6": "#B8BCC0",
         "layer-7": "#485058"
       }
-    },
-    {
-      "name": "Terre",
-      "colors": {
-        "layer-1": "#6A4828",
-        "layer-2": "#A87848",
-        "layer-3": "#D4A878",
-        "layer-4": "#483018",
-        "layer-5": "#886038",
-        "layer-6": "#C09068",
-        "layer-7": "#6A4828"
-      }
     }
   ],
   "layerColors": [
@@ -85,5 +74,11 @@
     "#aeb6b3",
     "#cfbc9f",
     "#1b3540"
-  ]
+  ],
+  "finishDescriptions": {
+    "Carving": "Le carving sculpte le motif en creusant la laine autour des contours, créant un relief net qui détache chaque forme.",
+    "No carving": "Surface uniforme sans découpe : les couleurs se rejoignent à plat, pour un rendu doux et contemporain.",
+    "Relief bas": "Une légère différence de hauteur entre les zones, pour un relief subtil au toucher.",
+    "Bords frangés": "Les bords du tapis se prolongent en franges de laine nouées à la main."
+  }
 }

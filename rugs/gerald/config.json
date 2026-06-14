@@ -7,10 +7,11 @@
   "shape": "rect",
   "transparent": false,
   "sizes": [
-    "100x100",
     "170x240",
     "200x300",
-    "250x350"
+    "250x350",
+    "200x200",
+    "300x300"
   ],
   "finitions": [
     "Carving",
@@ -33,11 +34,11 @@
       }
     },
     {
-      "name": "Terracotta",
+      "name": "Agata",
       "colors": {
-        "layer-1": "#C46840",
-        "layer-2": "#E8D0B8",
-        "layer-3": "#D4A880"
+        "layer-1": "#b5916d",
+        "layer-2": "#d8b7b4",
+        "layer-3": "#c9a3a3"
       }
     },
     {
@@ -47,19 +48,17 @@
         "layer-2": "#C8A84B",
         "layer-3": "#A09870"
       }
-    },
-    {
-      "name": "Bleu & Brique",
-      "colors": {
-        "layer-1": "#4A7090",
-        "layer-2": "#C4503C",
-        "layer-3": "#B8A898"
-      }
     }
   ],
   "layerColors": [
     "#422e19",
     "#534026",
     "#47351c"
-  ]
+  ],
+  "finishDescriptions": {
+    "Carving": "Le carving sculpte le motif en creusant la laine autour des contours, créant un relief net qui détache chaque forme.",
+    "No carving": "Surface uniforme sans découpe : les couleurs se rejoignent à plat, pour un rendu doux et contemporain.",
+    "Relief bas": "Une légère différence de hauteur entre les zones, pour un relief subtil au toucher.",
+    "Bords frangés": "Les bords du tapis se prolongent en franges de laine nouées à la main."
+  }
 }

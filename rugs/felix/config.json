@@ -6,7 +6,7 @@
   "type": "modular",
   "shape": "rect",
   "gradient": [
-    "#c9e2f7",
+    "#d7e6f7",
     "#8ba2c0"
   ],
   "sizes": [
@@ -59,23 +59,13 @@
         "layer-4": "#0E1830",
         "layer-5": "#A07830"
       }
-    },
-    {
-      "name": "Bleu & Brique",
-      "colors": {
-        "layer-1": "#2B4060",
-        "layer-2": "#D4E0EC",
-        "layer-3": "#C4503C",
-        "layer-4": "#203048",
-        "layer-5": "#8AAAC4"
-      }
     }
   ],
   "moduleCm": 30,
   "borderCm": 10,
   "borderColors": [
-    "#e09192",
-    "#c9e2f7"
+    "#f4d9d9",
+    "#8ba2c0"
   ],
   "grids": {
     "170x240": [
@@ -98,5 +88,11 @@
       7,
       7
     ]
+  },
+  "finishDescriptions": {
+    "Carving": "Le carving sculpte le motif en creusant la laine autour des contours, créant un relief net qui détache chaque forme.",
+    "No carving": "Surface uniforme sans découpe : les couleurs se rejoignent à plat, pour un rendu doux et contemporain.",
+    "Relief bas": "Une légère différence de hauteur entre les zones, pour un relief subtil au toucher.",
+    "Relief haut": "Un contraste de hauteur marqué entre les zones, pour un effet sculptural prononcé."
   }
 }
