@@ -60,5 +60,6 @@
       "label": "Motif en relief",
       "desc": "Le motif en relief joue sur deux hauteurs de laine (technique high-low) : certaines zones sont tuftées plus hautes que d'autres, créant un relief sculptural qui se révèle à la lumière et sous le pied."
     }
-  ]
+  ],
+  "cropSquare": true
 }
