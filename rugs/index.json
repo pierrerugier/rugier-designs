@@ -22,13 +22,6 @@
       "type": "modular"
     },
     {
-      "id": "elrojo",
-      "name": "El Rojo",
-      "collection": "La Pintura",
-      "author": "Manon du Merle",
-      "type": "stretch"
-    },
-    {
       "id": "felix",
       "name": "Felix",
       "collection": "Optical Palazzo",
@@ -66,7 +59,7 @@
     {
       "id": "squadra",
       "name": "Squadra",
-      "collection": "Optical Palazzo",
+      "collection": "Classics",
       "author": "Pierre Jungers",
       "type": "solid"
     },
